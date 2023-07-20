@@ -1,0 +1,17 @@
+FMC Device Health Overview 
+ 
+Health Alerts: 
+SYBASE_STATUS status GREEN
+MEMORY_USAGE status GREEN
+HOST_LIMIT status DISABLED
+RABBITMQ status DISABLED
+FILE_SYSTEM_INTEGRITY_CHECK status DISABLED
+
+Upgrades: 
+         upgradeType                            upgradeFile
+0  Cisco FTD Upgrade  Cisco_FTD_Upgrade-7.0.4-55.sh.REL.tar
+1  Cisco FTD Upgrade  Cisco_FTD_Upgrade-7.0.5-72.sh.REL.tar
+ 
+Device Records: 
+  deviceType deviceName
+0     Device      FTD-2
